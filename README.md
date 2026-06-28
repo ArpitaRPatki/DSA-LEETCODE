@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/ArpitaRPatki/DSA-LEETCODE/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ArpitaRPatki/DSA-LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0238-product-of-array-except-self](https://github.com/ArpitaRPatki/DSA-LEETCODE/tree/master/0238-product-of-array-except-self) |
+| [0739-daily-temperatures](https://github.com/ArpitaRPatki/DSA-LEETCODE/tree/master/0739-daily-temperatures) |
 ## Hash Table
 |  |
 | ------- |
@@ -42,4 +43,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/ArpitaRPatki/DSA-LEETCODE/tree/master/0040-combination-sum-ii) |
+## Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/ArpitaRPatki/DSA-LEETCODE/tree/master/0739-daily-temperatures) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/ArpitaRPatki/DSA-LEETCODE/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
